@@ -1,0 +1,9 @@
+G:\UT\trunk\ServerSide\HiCareService\HiCareService\bin\HiCareService.dll
+G:\UT\trunk\ServerSide\HiCareService\HiCareService\bin\HiCareService.pdb
+G:\UT\trunk\ServerSide\HiCareService\HiCareService\obj\Debug\HiCareService.dll
+G:\UT\trunk\ServerSide\HiCareService\HiCareService\obj\Debug\HiCareService.pdb
+D:\Users\Administrator\Downloads\CygwinPortable\App\Cygwin\home\Administrator\HiCareService\bin\HiCareService.dll
+D:\Users\Administrator\Downloads\CygwinPortable\App\Cygwin\home\Administrator\HiCareService\bin\HiCareService.pdb
+D:\Users\Administrator\Downloads\CygwinPortable\App\Cygwin\home\Administrator\HiCareService\obj\Debug\HiCareService.dll
+D:\Users\Administrator\Downloads\CygwinPortable\App\Cygwin\home\Administrator\HiCareService\obj\Debug\HiCareService.pdb
+D:\Users\Administrator\Downloads\CygwinPortable\App\Cygwin\home\Administrator\HiCareService\obj\Debug\HiCareService.csprojResolveAssemblyReference.cache
